@@ -14,7 +14,7 @@ https://enzypt.io/GdpC0ew6vxU3xf6jipfMQL77Hlq077Oh/TPZ1LUAx4Zsym3RGpeDbYziTCwAPf
 
 Includes a full guide on how to modify the contract and deploy it.
 
-Contact @mr_money_202 on TG
+
 
 ![image](https://user-images.githubusercontent.com/90094472/133909840-5e7417b5-1ff4-43a3-9957-636645672659.png)
 ![image](https://user-images.githubusercontent.com/90094472/133909845-4bf239e2-135a-4416-b4de-cab18f47fcdb.png)
